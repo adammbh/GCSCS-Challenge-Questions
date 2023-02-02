@@ -1,0 +1,8 @@
+If members age between 13 and 15
+    Print "You recieve a 30% discount"
+Else if members age between 16 and 17
+    Print "You recieve 20% discount"
+Else if members age 50 or more 
+    Print "You recieve a 40% discount"
+Else 
+    Print "You dont recieve a discount"
